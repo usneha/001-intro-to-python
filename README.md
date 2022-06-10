@@ -10,5 +10,5 @@ In this lesson, students will:
 * Use operators to define and manipulate variables.
 * Differentiate between data types in Python.
 
-
-[Materials on Google Drive](https://drive.google.com/drive/folders/1R9z46njAaOQbohFG3eb--FlA2VmLLXJO?usp=sharing)
+### Blog Post: Intro to git
+* Read this post to learn about forking and cloning repositories: https://austinlasseter.medium.com/cloning-your-first-repo-to-amazon-sagemaker-studio-lab-992dc7a8c72
